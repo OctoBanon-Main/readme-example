@@ -5,7 +5,7 @@
   <h2 align="center">README example for my projects</h2>
 </p>
 <p align="center">
-  <a href="#">#</a>
+  <a href="#">Test</a>
   •
-  <a href="#">#</a>
+  <a href="#">Test 2</a>
 </p>
